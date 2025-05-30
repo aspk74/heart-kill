@@ -8,7 +8,7 @@ The following steps were followed to reach the required outcome:
   4. Correlation heatmap was plotted.
   5. Two datasets (X and Y) were declared. X is the dataset conatining all the independent variables. Y is the dataset with the dependent variable.
   6. Split both X and Y into train and test datasets. (80% train, 20% test)
-  7. Resolve the problem of uneven data distribution through oversampling.
+  7. Resolve the problem of uneven data distribution through oversampling. 
   8. Train the data with Random Forest Classifier.
   9. Train the data with Naive Bayes Classifier.
   10. The accuracies for RF and NB are 88% and 74% respectively.
