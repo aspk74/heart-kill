@@ -1,4 +1,4 @@
-# heart-kill : analysing heart disease trend spread through various key indicators and predicting chances of getting a heart disease through various models.
+# heart-kill : analysing heart disease trend spread through various key indicators and predicting chances of getting a heart disease through various models
 
 The dataset is a kaggle public dataset about the key indicators of a heart disease. Originally the dataset is taken from CDC and includes data collected till 2020. There were various questions asked about their health to the respondents who reside in the U.S. These were the question inquiring about their physical and mental health like, "Do you experience trouble climbing stairs", etc. The dataset had 279 columns initially which was reduced to 20 columns.
 The following steps were followed to reach the required outcome:
